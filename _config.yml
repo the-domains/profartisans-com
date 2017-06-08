@@ -1,0 +1,35 @@
+name: Profartisans.com
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/89ef1566-8d29-440d-8b70-b170d894b4a0.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/96c65ac7-9b82-4d62-8236-e1d5742110e1.jpg
+layout_spectrum: 0.09369363593460478
+typography_spectrum: 0.4490813693504193
+opengraph:
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/7876355e-10b9-4803-b1a0-041ec7c0c6df.jpg
+color:
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.21482738546888147
+  lightness: 0.49640047516595853
+  saturation: 0.7444568065707232
+  rhythmicContrast: 0.6724801522867704
+title: 'PROFESSIONAL ARTISANS '
+description: >-
+  ProfArtisans provide supervisory functions over artisans' skills delivery and
+  Apprenticeship. 
+author:
+  name: 'Lynays Love World Initiative '
+  url: www.profartisans.com
+  email: profartisans@live.com
+content_rating:
+  adult: false
+content: []
+github: true
